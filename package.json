@@ -1,0 +1,19 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "A console-based Student Management System for efficiently handling student records. Features include unique student ID generation, course enrollment, balance tracking, and tuition fee payments. Perfect for practicing Object-Oriented Programming concepts in a practical setting.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
